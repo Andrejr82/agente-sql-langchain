@@ -1,0 +1,12 @@
+{
+    "typeCheckingMode": "basic",
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+    "useLibraryCodeForTypes": true,
+    "pythonVersion": "3.8",
+    "pythonPlatform": "All",
+    "typeCheckingMode": "off",
+    "reportGeneralTypeIssues": false,
+    "reportOptionalMemberAccess": false,
+    "extension-pkg-whitelist": ["pyodbc"]
+}

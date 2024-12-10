@@ -1,0 +1,10 @@
+[MASTER]
+# Lista de extensões C permitidas
+extension-pkg-whitelist=pyodbc
+
+[MESSAGES CONTROL]
+# Desabilitar mensagens específicas
+disable=C0111,  # missing-docstring
+        C0103,  # invalid-name
+        W0613,  # unused-argument
+        I1101   # c-extension-no-member

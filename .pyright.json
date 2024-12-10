@@ -1,0 +1,22 @@
+{
+    "include": [
+        "."
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__"
+    ],
+    "stubPath": ".",
+    "typeCheckingMode": "basic",
+    "useLibraryCodeForTypes": true,
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+    "pythonPlatform": "All",
+    "pythonVersion": "3.8",
+    "executionEnvironments": [
+        {
+            "root": ".",
+            "extraPaths": ["."]
+        }
+    ]
+}
