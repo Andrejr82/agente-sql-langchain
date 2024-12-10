@@ -116,3 +116,4 @@ railway up
 3. Commit suas mudanças (`git commit -m 'Adiciona feature'`)
 4. Push para a branch (`git push origin feature/sua-feature`)
 5. Abra um Pull Request
+# agente-sql-langchain
